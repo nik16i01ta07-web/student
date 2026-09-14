@@ -1,0 +1,15 @@
+/workspaces/student/EmployeeApp/bin/Debug/net10.0/EmployeeApp
+/workspaces/student/EmployeeApp/bin/Debug/net10.0/EmployeeApp.deps.json
+/workspaces/student/EmployeeApp/bin/Debug/net10.0/EmployeeApp.runtimeconfig.json
+/workspaces/student/EmployeeApp/bin/Debug/net10.0/EmployeeApp.dll
+/workspaces/student/EmployeeApp/bin/Debug/net10.0/EmployeeApp.pdb
+/workspaces/student/EmployeeApp/obj/Debug/net10.0/EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/student/EmployeeApp/obj/Debug/net10.0/EmployeeApp.AssemblyInfoInputs.cache
+/workspaces/student/EmployeeApp/obj/Debug/net10.0/EmployeeApp.AssemblyInfo.cs
+/workspaces/student/EmployeeApp/obj/Debug/net10.0/EmployeeApp.csproj.CoreCompileInputs.cache
+/workspaces/student/EmployeeApp/obj/Debug/net10.0/EmployeeApp.sourcelink.json
+/workspaces/student/EmployeeApp/obj/Debug/net10.0/EmployeeApp.dll
+/workspaces/student/EmployeeApp/obj/Debug/net10.0/refint/EmployeeApp.dll
+/workspaces/student/EmployeeApp/obj/Debug/net10.0/EmployeeApp.pdb
+/workspaces/student/EmployeeApp/obj/Debug/net10.0/EmployeeApp.genruntimeconfig.cache
+/workspaces/student/EmployeeApp/obj/Debug/net10.0/ref/EmployeeApp.dll
